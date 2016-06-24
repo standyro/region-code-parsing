@@ -1,0 +1,6 @@
+{
+    "extends": "videoamp",
+    "rules": {
+        "no-console": "off"
+    }
+}

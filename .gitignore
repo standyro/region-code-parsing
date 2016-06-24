@@ -1,0 +1,74 @@
+# All log files
+
+*.log
+
+# Just in case for python files
+
+*.pyc
+*.pyo
+*.orig
+
+# OSX
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Eclipse
+
+.project
+.settings/
+.*.md.html
+
+# IntelliJ
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Netbeans Files
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Node Files
+
+.nodemonignore
+npm-debug.log
+node_modules/
+
+# SASS Files
+
+.sass-cache/
+
+# Bower Files
+
+.bower-*/
+bower_components
+
+# App Files
+
+test/coverage/
+modules/public/
+modules/views/
+/public/build/
+/public/system/lib/**/*
+
+tmp/*
+./logs/*
+
+*.rdb
+
+# temporarily disable the jsdoc directory index with auto timestamp
+
+./docs/jsdoc/*

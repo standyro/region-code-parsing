@@ -1,0 +1,23 @@
+{
+  "name": "region-code-parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.0",
+    "csv-parse": "^1.1.1",
+    "lodash": "^4.13.1",
+    "stream-transform": "^0.1.1"
+},
+"devDependencies": {
+    "eslint": "~2.12.0",
+    "eslint-config-airbnb": "~9.0.1",
+    "eslint-config-airbnb-base": "~3.0.1",
+    "eslint-config-videoamp": "git://github.com/VideoAmp/eslint-config-videoamp.git"
+}
+}
